@@ -9,7 +9,7 @@ The project explores **graph-theoretic methods for track reconstruction** in the
 - **Core Idea**: Represent detector hits and their connections as sparse matrices, and apply semiring-based operations to extract track candidates.
 - **Highlights**:
   - Construction of adjacency matrices from simulated detector hit data
-  - Exploration of $k$-paths, matrix powers, connected components, and semiring formulations
+  - Exploration of $k$-paths, matrix powers, connected components, and semi-ring formulations
   - Visualization utilities for paths, curvature, and reconstructed tracks
 
 ---
