@@ -27,10 +27,10 @@ The project explores **graph-theoretic methods for track reconstruction** in the
 
 ## Installation
 Clone the repository and install dependencies:
+```bash
 git clone https://github.com/miloss-git/GraphBLAS-Algorithms.git
 cd GraphBLAS-Algorithms
 pip install -r requirements.txt
 
-## Report is available at the link:
-...(to be included)
-👉 [Full Report (PDF)](link-to-be-added)
+## Technical report about this project is available at the link:
+(link-to-be-added)
