@@ -27,7 +27,7 @@ The project explores **graph-theoretic methods for track reconstruction** in the
 
 ## Installation
 Clone the repository and install dependencies:
-git clone https://github.com/username/cern-track-reconstruction.git
+git clone https://github.com/miloss-git/GraphBLAS-Algorithms.git
 cd cern-track-reconstruction
 pip install -r requirements.txt
 
