@@ -16,7 +16,7 @@ The project explores **graph-theoretic methods for track reconstruction** in the
 ---
 
 ## Repository Structure
-data/ # CSV files corresponding to simulated muon collisions
+  - **data** > Includes csv files that correspond to the dataset of muons collision.
   - **initial_analysis** > The initial approach that was refined later, but still provided useful insight about the problem. In this approach, the weakly connected component was extracted for each root in the graph.
   - **main_algorithm** > Provides files where the final-result algorithm is implemented. The algorithm principles are explored and explained in the report (link beneath).
   - **make_plots** > Functions for plots and graphs drawing.
@@ -28,8 +28,9 @@ data/ # CSV files corresponding to simulated muon collisions
 ## Installation
 Clone the repository and install dependencies:
 git clone https://github.com/miloss-git/GraphBLAS-Algorithms.git
-cd cern-track-reconstruction
+cd GraphBLAS-Algorithms
 pip install -r requirements.txt
 
 ## Report is available at the link:
 ...(to be included)
+👉 [Full Report (PDF)](link-to-be-added)
